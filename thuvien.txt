@@ -1,0 +1,6 @@
+opencv-python
+Pillow
+flask
+tensorflow
+requests
+scipy
